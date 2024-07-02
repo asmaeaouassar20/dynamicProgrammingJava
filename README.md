@@ -49,3 +49,10 @@ we will use an array to store the number of ways to reach each step
  
   #### Use the solution of subproblems to solve the original problem
   The final value of ``` max_global ``` is the maximum sum of any subarray
+
+
+### 3. Fibonacci sequence
+- The Fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones.
+- It starts with 0 and 1
+- Here's how the sequence looks: 0 , 1 , 1 , 2 , 3 , 5 , 8 , 13 ...
+- Here's the formula for the Fibonacci sequence : ``` F(n) = F(n-1) + F(n-2) ``` where ```F(0)=0``` and ``` F(1)=1```.
