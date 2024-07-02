@@ -56,3 +56,7 @@ we will use an array to store the number of ways to reach each step
 - It starts with 0 and 1
 - Here's how the sequence looks: 0 , 1 , 1 , 2 , 3 , 5 , 8 , 13 ...
 - Here's the formula for the Fibonacci sequence : ``` F(n) = F(n-1) + F(n-2) ``` where ```F(0)=0``` and ``` F(1)=1```.
+
+##### What if you use recursion !?
+  - **time complexity** : O(2<sup>n</sup>)
+  - **space complexity** : O(n)
