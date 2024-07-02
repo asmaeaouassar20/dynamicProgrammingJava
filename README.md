@@ -6,6 +6,12 @@ Dynamic Programming is a technique used to solve complex problems by breaking th
 2. Memoization : store the results of subproblems to avoid recalculating them.
 3. Build the solution : use the results of the subproblems to build the solution to the main problems
 
+## Prerequisites on the shortest paths
+( if you don't have any idea, don't worry, we will learn together 😊😉)
+- Bellman-Ford algorithm
+- Structure of an optimal solution
+- case of graphs without cycles
+
 ## Examples
 ### 1. The Staircase Problem
 - imagine you need to climb a staircase with 'n' steps
