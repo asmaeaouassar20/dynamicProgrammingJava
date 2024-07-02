@@ -6,6 +6,13 @@ Dynamic Programming is a technique used to solve complex problems by breaking th
 2. Memoization : store the results of subproblems to avoid recalculating them.
 3. Build the solution : use the results of the subproblems to build the solution to the main problems
 
+## Objectives of dynamic programming (DP):
+- Avoid duplicate work
+- Reduce redundant computations
+- Optimize solutions
+- Improve time efficiency
+- Solve complex problems
+
 ## Prerequisites on the shortest paths
 ( if you don't have any idea, don't worry, we will walk through it pretty slowly together 😊😉)
 - Bellman-Ford algorithm
