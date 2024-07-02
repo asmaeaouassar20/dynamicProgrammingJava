@@ -7,7 +7,7 @@ Dynamic Programming is a technique used to solve complex problems by breaking th
 3. Build the solution : use the results of the subproblems to build the solution to the main problems
 
 ## Prerequisites on the shortest paths
-( if you don't have any idea, don't worry, we will learn together 😊😉)
+( if you don't have any idea, don't worry, we will walk through it pretty slowly together 😊😉)
 - Bellman-Ford algorithm
 - Structure of an optimal solution
 - case of graphs without cycles
