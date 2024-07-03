@@ -67,3 +67,6 @@ we will use an array to store the number of ways to reach each step
 ##### What if you use recursion !?
   - **time complexity** : O(2<sup>n</sup>)
   - **space complexity** : O(n)
+##### But... What if we use dynamic programming !?
+  - **time complexity** : O(n)
+  - **space complexity** : O(n) { with a recursive approach using memoizaton } , O(1) { with an iterative approach using two variables to store the previous values }
