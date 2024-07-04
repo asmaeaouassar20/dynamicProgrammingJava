@@ -70,3 +70,16 @@ we will use an array to store the number of ways to reach each step
 ##### But... What if we use dynamic programming !?
   - **time complexity** : O(n)
   - **space complexity** : O(n) { with a recursive approach using memoizaton } , O(1) { with an iterative approach using two variables to store the previous values }
+
+
+### 4. Tribonacci sequence
+- The tribonacci sequence is similar to the Fibonacci sequence
+- but instead of starting with two  predetermined terms and using the sum of the previous two terms to get the next term
+- the Tribonacci sequence starts with three predetermined terms and uses the sum of the previous three terms to get the next term.
+
+```
+T(0)=0
+T(1)=0
+T(2)=1
+for n>=3 : T(n)=T(n-1)+T(n-2)+T(n-3)
+```
